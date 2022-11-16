@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, We are MCH Development</h1>
+<h1 align="center">Hi 👋, We are Liltec-it</h1>
 <h3 align="center">We're passionate web developers from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mch-development&label=Profile%20views&color=0e75b6&style=flat" alt="mch-development" /> </p>
 
 - 🌱 We are currently learning **Angular.js, vue,js, react.js, Ruby on rails, PHP (symfony, laravel)**
 
-- 📫 How to reach me **mch@development.fr**
+- 📫 How to reach me **contact@liltec-it.fr**
 
 <p align="left">
 </p>
